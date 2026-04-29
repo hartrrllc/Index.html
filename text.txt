@@ -1,0 +1,7 @@
+<h2>Our Work</h2>
+
+<div style="display:flex; gap:15px; flex-wrap:wrap;">
+  <img src="images/floor1.jpg" width="300">
+  <img src="images/kitchen1.jpg" width="300">
+  <img src="images/bathroom1.jpg" width="300">
+</div>
